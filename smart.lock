@@ -1,0 +1,60 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "branch": "dev"
+      },
+      "collection2": {},
+      "autoform": {
+        "git": "https://github.com/aldeed/meteor-autoform",
+        "branch": "ui"
+      },
+      "bootstrap-3": {},
+      "accounts-ui-bootstrap-3": {}
+    },
+    "packages": {
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "branch": "dev",
+        "commit": "3cfa4c618f6d6dffd209b4c0cb0f1d37c5223c09"
+      },
+      "collection2": {
+        "git": "https://github.com/aldeed/meteor-collection2.git",
+        "tag": "v0.3.9",
+        "commit": "fdda9b5c87e9dcb5cb67087ecb6c9f21352d0cc2"
+      },
+      "autoform": {
+        "git": "https://github.com/aldeed/meteor-autoform",
+        "branch": "ui",
+        "commit": "8561975d995de50ddd43a7ea1d90c90bfbbdd980"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.1.1-1",
+        "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
+      },
+      "accounts-ui-bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-accounts-ui-bootstrap-3.git",
+        "tag": "v0.2.6",
+        "commit": "f3ee0ef6bc506314e19585550b4f9f5620c4ada6"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "branch": "master",
+        "commit": "2664f817844fba0fab0455a79bc62782c9091ad0"
+      },
+      "simple-schema": {
+        "git": "https://github.com/aldeed/meteor-simple-schema.git",
+        "tag": "v0.2.42",
+        "commit": "85ce399ec94ecc6b9b2fdb114bddaceba82f3a03"
+      },
+      "moment": {
+        "git": "https://github.com/acreeger/meteor-moment.git",
+        "tag": "v2.5.1",
+        "commit": "8c9bc5d3fc96705057737cb9743d555417f6e551"
+      }
+    }
+  }
+}
