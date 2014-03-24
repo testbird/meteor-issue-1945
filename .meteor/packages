@@ -5,13 +5,9 @@
 
 standard-app-packages
 preserve-inputs
-collection2
-autoform
 accounts-password
 simple-schema
 coffeescript
-bootstrap-3
 iron-router
 blaze-layout
 moment
-accounts-ui-bootstrap-3

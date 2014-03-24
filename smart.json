@@ -3,16 +3,6 @@
     "iron-router": {
       "git": "https://github.com/EventedMind/iron-router.git",
       "branch": "dev"
-    },
-    "collection2": {},
-    "autoform": {
-      "git": "https://github.com/aldeed/meteor-autoform",
-      "branch": "ui"
-    },
-    "bootstrap-3": {},
-    "accounts-ui-bootstrap-3": {
-      "git": "https://github.com/mangasocial/meteor-accounts-ui-bootstrap-3",
-      "branch": "blaze"
     }
   }
 }
